@@ -1,0 +1,16 @@
+{
+    "host": "192.168.0.181",
+    "username": "liuyang",
+    "password": "llt891214",
+    "remotePath": "/home/liuyang/competition/",
+    "protocol": "sftp",
+    "port": 22,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
